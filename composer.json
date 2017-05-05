@@ -1,0 +1,23 @@
+{
+  "name": "colibriphp/html",
+  "description": "Html Library",
+  "keywords": ["php html","html"],
+  "authors": [
+    {
+      "name": "Ivan Hontarenko",
+      "email": "stewie.dev@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "type": "library",
+  "minimum-stability": "dev",
+  "prefer-stable" : true,
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dez\\Html\\": "src/"
+    }
+  }
+}
