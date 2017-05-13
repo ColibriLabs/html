@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Dez\\Html\\": "src/"
+      "Colibri\\Html\\": "src/"
     }
   }
 }
